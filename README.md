@@ -118,8 +118,6 @@ You are welcome to ask fellow classmates and students for help and discuss the a
 
 1. Submit a URL to your GitHub Page (same as the link you edited at the top) to the associated assignment on Canvas.
 
-
-
 # Tips and Tricks
 
 ## Resources
